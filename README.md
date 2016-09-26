@@ -1,3 +1,3 @@
 # ImageVideoFilter
 
-ImageVideoFilte contains Image and Video Filter.
+ImageVideoFilter contains Image and Video Filter.
